@@ -6,7 +6,7 @@ _This library is built upon [Matt Chun-Lum's library](https://github.com/mattcl/
 
 ## Usage
 
-List of supported lights:
+List of supported light models:
  - `H6160`, `H6163`, `H6104`, `H6109`, `H6110`,
  - `H6117`, `H6159`, `H7021`, `H7022`, `H6086`,
  - `H6089`, `H6182`, `H6085`, `H7014`, `H5081`,
