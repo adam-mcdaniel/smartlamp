@@ -1,0 +1,7 @@
+/target
+Cargo.lock
+remove_key.sh
+build.sh
+run.sh
+govee-rs
+keys.rs
