@@ -26,6 +26,8 @@ List of supported light models:
 
 And then you're done!
 
+IMPORTANT NOTE: `No devices found` refers to the list of _valid_ devices associated with your account. _If you have a light that doesn't have a supported model number, this program will not find your light._
+
 ## Example Code
 
 This code searches for all lights associated with your account, turns them on, sets their colors to red, sets their brightness to 50%, and their color temperature to balanced (perfectly between warm and cold).
